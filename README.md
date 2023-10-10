@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<body>
-    <h3 style="color=Tomato;">Hello Gaess</h3>
-    <p style="color=DodgerBlue;">Nama aku Puspa Cahyaning Tyas</p>
-    <p style="color=MediumSeaGreen;">Ini adalah website pertama saya</p>
-</body>
-
-</html>
+  <title>puspacahyaningtyas.project</title>
+  <body style="background-color: lightgoldenrodyellow;">
+   <p style="text-align:center;"> </p>" <marquee> <span style='font-size:100px;'>&#129395;</span> Puspa Cahyaning Tyas <p style="font: size 100px;">&#128540</p> <p style="font-size:100px;">&#129392</p> 
+    </marquee>
+    
+   
+  </body>
+  </html>
